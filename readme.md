@@ -1,5 +1,3 @@
-Voici un exemple de fichier `readme.md` pour documenter votre script Python :
-
 ```markdown
 # Description
 
